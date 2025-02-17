@@ -10,4 +10,11 @@ class Node {
 let head = new Node(1);
 head.next = new Node(2);
 head.next.next = new Node(3);
-// adding a comment
+
+
+
+
+
+
+trying pull command
+
